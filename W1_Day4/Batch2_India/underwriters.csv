@@ -1,0 +1,21 @@
+underwriterId,name,team,authorityLimit
+UW001,Ananya Rao,Specialty Risk,250000
+UW002,David Chen,Specialty Risk,100000
+UW003,Fatima Al-Sayed,Commercial Lines,250000
+UW004,James O'Brien,Personal Lines,250000
+UW005,Meera Iyer,Specialty Risk,250000
+UW006,Lucas Silva,Personal Lines,500000
+UW007,Priya Nair,Life & Health,100000
+UW008,Thomas Weber,Commercial Lines,250000
+UW009,Wei Zhang,Umbrella & Excess,500000
+UW010,Sofia Rossi,Commercial Lines,250000
+UW011,Arjun Mehta,Life & Health,250000
+UW012,Olivia Johansson,Commercial Lines,250000
+UW013,Karim Haddad,Specialty Risk,50000
+UW014,Hana Kobayashi,Umbrella & Excess,100000
+UW015,Noah Fischer,Life & Health,250000
+UW016,Isabella Costa,Specialty Risk,250000
+UW017,Ravi Sharma,Life & Health,50000
+UW018,Grace Novak,Commercial Lines,50000
+UW019,Miguel Lindqvist,Personal Lines,250000
+UW020,Aisha Farouk,Life & Health,50000
